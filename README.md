@@ -16,13 +16,13 @@ Authenticate using your OCI cli to have the config ready to start.
 2. To start the notebook create a conda enviroment using the next commands.
 
 ```
-    conda create --name oci-custom-dataset-env --file environment.yaml
+    conda env create --name oci-custom-dataset-env --file environment.yml
     conda activate oci-custom-dataset-env
 ```
 
 Once the enviroment is activated start jupyter.
 
 ```
-    some command
+    jupyter-notebook
 ```
 
