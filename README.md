@@ -1,4 +1,4 @@
-# oci-custom-dataset
+# OCI Image Classification 
 
 OCI custom dataset creation using python SDK. The idea with this notebook is to create a custom dataset, to use the datalabeling and vision service of OCI.
 
