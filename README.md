@@ -6,12 +6,7 @@ I'll be using the landmaks dataset v2 https://github.com/cvdfoundation/google-la
 
 ## Initial Setup
 
-1. Donwload and install OCI cli https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm
-
-Authenticate using your OCI cli to have the config ready to start.
-```
-    oci session authenticate
-```
+1. Follow the instructions to configure oci cli and to create API keys to authenticate against OCI that are in this blog https://medium.com/@carlgira/install-oci-cli-and-configure-a-default-profile-802cc61abd4f
 
 2. To start the notebook create a conda enviroment using the next commands.
 
@@ -20,7 +15,7 @@ Authenticate using your OCI cli to have the config ready to start.
     conda activate oci-custom-dataset-env
 ```
 
-Once the enviroment is activated start jupyter.
+3. Once the enviroment is activated start jupyter.
 
 ```
     jupyter-notebook
