@@ -1,3 +1,5 @@
+<img src="img/emea-wedo.png" alt="WEDO" width="400"/>
+
 # OCI Image Classification 
 
 OCI custom dataset creation using python SDK. The idea with this notebook is to create a custom dataset, to use the datalabeling and vision service of OCI.
