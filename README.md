@@ -4,6 +4,9 @@
 
 OCI custom dataset creation using python SDK. The idea with this notebook is to create a custom dataset, to use the datalabeling and vision service of OCI.
 
+A wrote a blog explaining how to use this repository https://medium.com/@carlgira/ai-vision-model-on-oci-for-image-classification-90387524d69d
+
+
 I'll be using the landmaks dataset v2 https://github.com/cvdfoundation/google-landmark.
 
 ## Initial Setup
