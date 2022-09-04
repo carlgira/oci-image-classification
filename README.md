@@ -2,7 +2,7 @@
 
 # OCI Image Classification 
 
-The idea with this notebook is to create a custom dataset using the datalabeling and vision service of Oracle Cloud.
+The idea with this repository is to create a custom dataset using the datalabeling and vision service of Oracle Cloud.
 
 I wrote a blog explaining how to use this repository https://medium.com/@carlgira/ai-vision-model-on-oci-for-image-classification-90387524d69d
 
